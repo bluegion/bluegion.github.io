@@ -1,2 +1,0 @@
-# bluegion.github.io
-Portfolio
